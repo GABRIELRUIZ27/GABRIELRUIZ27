@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/antonio-gabriel-ruiz-lim%C3%B3n-ab8567216/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href="https://www.facebook.com/profile.php?id=100007101215535&mibextid=kFxxJD" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
